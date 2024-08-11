@@ -3,3 +3,5 @@
 2- Cats
 3- Frogs
 4- Turtle
+5- Lion
+6- Tiger
